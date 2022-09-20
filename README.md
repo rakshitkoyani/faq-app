@@ -2,7 +2,7 @@
 
 FAQ APPLICATION
 
-![thumbnail](./thumbnail.PNG)
+![thumbnail](./thumbnail.png)
 
 It took me around 2.5 hours to create this application.
 
